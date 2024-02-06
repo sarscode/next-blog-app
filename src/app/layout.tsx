@@ -14,7 +14,7 @@ const fontSans = FontSans({
 export const metadata: Metadata = {
   title: "Next 14 Blog App",
   description:
-    "A blog app built with Next 14 using tailwind, shadcn, react-hook-form, and zod",
+    "A blog app built with Next 14 using tailwind, shadcn, react-hook-form, zod and typicode placeholder api",
 };
 
 export default function RootLayout({
